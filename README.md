@@ -27,3 +27,5 @@ Create [Discord Application](https://discord.com/developers/applications)
 4. Open a tab in your browser and paste the `CUSTOM URL` you just created and click `ADD TO SERVER`, select a server you want to use.
 
 You can now see the chatbot showing in your discord server!
+
+![image](./discord.gif)
